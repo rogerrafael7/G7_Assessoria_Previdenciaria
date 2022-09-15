@@ -1,0 +1,6 @@
+export * from './importacao-de-arquivos-de-fundos.job'
+export * from './importacao-de-dados-da-base-legada.job'
+export * from './importacao-de-dados.job'
+export * from './desenvolver-historia-745.job'
+export * from './gerar-qrcode.job'
+export * from './importacao-de-dados-de-integracao.job'
